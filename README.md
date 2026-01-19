@@ -13,3 +13,20 @@ Warranty Disclaimer: Use at your own risk! After-BMFI or any person associated,-
 -affiliated or part of After-BMFI is not accountable or responsible for any harm done by you for using this code.
 This code was created by After-BMFI Jeff Rogers.
 You are required to keep this file with the code for download or redistribution.
+
+
+Download install_ece_master_icons.sh
+Run:
+sudo bash install_ece_master_icons.sh
+Uninstaller
+Download uninstall_ece_master_icons.sh
+Run:
+sudo bash uninstall_ece_master_icons.sh
+
+One Final Note:
+About ECE Tools
+The developer, Jeff Rogers, has created many Ethical Hacking, Blue Team, and Educational Lab Testing tools under the ECE (Evil Clown Empire) project.
+Due to the scope and volume of this work, many tools are currently stored across separate drives and environments.
+As time allows, these tools will be systematically extracted, reviewed, updated, and consolidated into this GitHub repository.
+Rather than delaying release indefinitely, the project will be built out progressively, with tools added and refined sooner rather than never.
+
