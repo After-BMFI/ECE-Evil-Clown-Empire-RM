@@ -15,8 +15,8 @@ This code was created by After-BMFI Jeff Rogers.
 You are required to keep this file with the code for download or redistribution.
 
 
-Download install_ece_master_icons.sh
-Run:
+Download install_ece_master_icons.sh 
+Run: 
 sudo bash install_ece_master_icons.sh
 Uninstaller
 Download uninstall_ece_master_icons.sh
