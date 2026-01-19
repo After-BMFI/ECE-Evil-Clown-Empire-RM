@@ -1,3 +1,9 @@
+"""
+Run:
+sudo bash uninstall_ece_master_icons.sh
+
+"""
+
 #!/bin/bash
 set -e
 
