@@ -1,3 +1,8 @@
+"""
+Run:
+sudo bash install_ece_master_icons.sh
+
+"""
 #!/bin/bash
 set -e
 
